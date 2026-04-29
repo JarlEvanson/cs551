@@ -1,0 +1,5 @@
+# Don't save the dataset.
+/ids_2017
+
+# Don't save checkpoints.
+/.ipynb_checkpoints
